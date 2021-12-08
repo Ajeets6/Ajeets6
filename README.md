@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajeets6
 - 👀 I’m interested in open source projects to work on.
-- 🌱 I’m currently learning  c++,c,pyhton
+- 🌱 I’m currently learning  c++,c,python
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
